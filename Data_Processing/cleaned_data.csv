@@ -1,0 +1,21 @@
+User ID,country,Gender,Age,salary,Purchased,Age_Group
+15624510,india,male,19.0,19000.0,0,Young
+15810944,usa,male,35.0,0.0,1,Middle-aged
+15668575,france,female,26.0,43000.0,0,Middle-aged
+15603246,usa,female,0.0,57000.0,0,
+15804002,france,male,19.0,76000.0,0,Young
+15728773,india,male,27.0,58000.0,0,Middle-aged
+15598044,india,female,27.0,84000.0,1,Middle-aged
+15694829,usa,female,0.0,150000.0,1,
+15600575,france,male,25.0,33000.0,0,Young
+15727311,usa,female,35.0,65000.0,0,Middle-aged
+15570769,india,female,26.0,80000.0,0,Middle-aged
+15606274,india,female,26.0,52000.0,0,Middle-aged
+15746139,france,male,20.0,86000.0,0,Young
+15704987,usa,male,32.0,18000.0,1,Middle-aged
+15628972,france,male,18.0,82000.0,0,Young
+15697686,india,male,29.0,80000.0,0,Middle-aged
+15733883,india,male,47.0,25000.0,1,Older
+15617482,,male,45.0,26000.0,1,Older
+15704583,france,male,46.0,28000.0,1,Older
+15704584,india,female,0.0,28000.0,1,
