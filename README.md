@@ -1,6 +1,9 @@
-DATA OPERATIONS
+# DATA OPERATIONS
+
 Use Case - Learning how to perform arithmetic and modulus operations. It is widely used in scientific computing which supports arrays and matrices along with the large collection of high level mathematical functions to operate on these data structures. 
+
 Library used - Numpy
+
 Codes Executed:
 1. Linear Regression
 2. Logistic Regression
@@ -10,18 +13,24 @@ Codes Executed:
 6. Naive Bayes Classifier
 7. SVM (Support Vector Machines)
 
-DATA PROCESSING
+# DATA PROCESSING
+
 Use Case - It is used for manipulating, transforming and analysing data.
+
 Library used - Pandas
+
 Codes Executed:
 1. Reading a File (csv, xls, etc.)
 2. Executing and Extracting the headings
 3. Updating existing column names
 4. Data Cleaning
 
-DATA VISUALIZATION
+# DATA VISUALIZATION
+
 Use Case - Used for visualizing the data for better understanding.
+
 Library Used - Matplotlib 
+
 Codes Executed:
 1. Simple Line Plot
 2. Scatter Plot
@@ -33,10 +42,41 @@ Codes Executed:
 8. Saving a Plot
 9. Logarithmic Scale
 10. Plotting with Annotations
+
+
+# DATA VISUALIZATION
+
+Use Case - Used for creating visually appealing, statistically-focused plots with minimal code.
+
+Library Used - Seaborn
+
+Codes Executed:
+1. Bar Plot
+2. Box Plot
+3. Boxen Plot
+4. Cat Plot
+5. Count Plot
+6. FacetGrid
+7. Heatmap Plot
+8. Histogram
+9. JointPlot
+10. KDE Plot
+11. Line Plot
+12. Pair Plot
+13. Pair + Grid
+14. Point Plot
+15. Regression Plot
+16. Scatter Plot
+17. Strip Plot
+18. Swarm Plot
+19. Violen Plot
     
-DEEP LEARNING IMAGE PROCESSING
+# DEEP LEARNING IMAGE PROCESSING
+
 Use Case - Digitizing and Executing images with the help of vision(deep learning - CNN) frameworks/libraries.
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Image Reading
 2. Image Crop
@@ -54,9 +94,12 @@ Codes Executed:
 14. Canny Edge Detectiom
 15. Morphological Operation
 
-DEEP LEARNING VIDEO PROCESSING
+# DEEP LEARNING VIDEO PROCESSING
+
 Use Case - Digitizing and Executing videos with the help of vision(deep learning - CNN) frameworks/libraries.
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Video Streaming
 2. Video Stacking
@@ -64,8 +107,10 @@ Codes Executed:
 4. Frames per Second (FPS)
 5. Multiple Video Streaming
 
-SALES DATA ANALYSIS AND VISUALIZATION
+# SALES DATA ANALYSIS AND VISUALIZATION
+
 Use Case - Processing, Analysing, and Visualizing the Sales data.
+
 Libraries Used - Pandas, Matplotlib, Seaborn
 
 
