@@ -1,3 +1,20 @@
+# DATA COMPUTATION
+
+Use Case - Commonly used for data analysis, optimization, signal processing, statistical analysis, and linear algebra in scientific and engineering fields.
+
+Library Used - Scipy
+
+Codes Executed: 
+1. Optimization - Curve Fitting, Minimization Problems
+3. Integration
+4. Interpolation
+5. Linear Algebra
+6. Statistics
+7. Fourier Transformation
+8. Signal and Image Processing - Filtering noisy data, Signal Analysis
+9. Ordinary Differential Equation Solvers
+10. Special Functions - Gamma Function, Bessel Function, Elliptic Integrals, Laguerre Function, Gauss Hypergeometric Function
+
 # DATA OPERATIONS
 
 Use Case - Learning how to perform arithmetic and modulus operations. It is widely used in scientific computing which supports arrays and matrices along with the large collection of high level mathematical functions to operate on these data structures. 
